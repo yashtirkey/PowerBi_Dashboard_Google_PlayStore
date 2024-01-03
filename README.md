@@ -1,1 +1,2 @@
 # PowerBi_Dashboard_Google_PlayStore
+This project is a PowerBI Dashboard based on the Google PlayStore apps. The files used in the dashboard are "googleplaystore.csv" and "googleplaystore_user_reviews.csv". The files are first formatted in order to allow all the values of each column and remove the NaN values. After the transformation of files, the files are loaded in the PowerBI without errors and the data insights are done in the project.
